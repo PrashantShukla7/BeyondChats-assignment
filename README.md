@@ -1,8 +1,42 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Assignment UI Project  
 
-Currently, two official plugins are available:
+This is a React-based UI developed as part of a BeyondChat assignment. It includes the UI elements like Registration form, Website Analysis UI, and Chatbot integration UI with multiple options.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack  
+- React.js  
+- Tailwind CSS  
+- Vite  
+- Axios (for API calls)  
+
+## Live Demo  
+[Click here to view the project](https://your-vercel-link.vercel.app)  
+
+## Installation & Setup  
+ 1. ### Clone the repository:  
+   ```bash
+   git clone https://github.com/PrashantShukla7/BeyondChats-assignment.git
+   ```
+ 2. ### Install the dependencies: 
+```bash
+npm install 
+```
+	
+3. ### Setup Environment variable: 
+ Make a `.env` file and create the environment variable
+ ```bash
+ VITE_OPENGRAPH_API_KEY = <Your openGraph API key> 
+ ```
+	 
+ 4. ### Start the Development server: 
+ ```bash
+ npm run dev 
+ ```
+ 
+
+## Author  
+👤 **Prashant Shukla**  
+- Portfolio: [Prashant Shukla](https://prashantshukla.vercel.app/)
+- GitHub: [@Prashant Shukla](https://github.com/PrashantShukla7)  
+- LinkedIn: [@prashant-shukla7](https://www.linkedin.com/in/prashant-shukla7/)  
+
