@@ -10,7 +10,8 @@ This is a React-based UI developed as part of a BeyondChat assignment. It includ
 - Axios (for API calls)  
 
 ## Live Demo  
-[Click here to view the project](https://your-vercel-link.vercel.app)  
+[Click here to view the project](https://beyond-ui.vercel.app/)  
+https://beyond-ui.vercel.app/
 
 ## Installation & Setup  
  1. ### Clone the repository:  
