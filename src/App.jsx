@@ -4,6 +4,7 @@ import { Route, Routes } from "react-router-dom";
 import OrganizationSetup from "./components/OrganizationSetup.jsx";
 import ChatbotIntegration from "./components/ChatbotIntegration.jsx";
 import Navbar from "./components/Navbar.jsx";
+import IntegrationNotFound from "./components/IntegrationNotFound.jsx";
 
 const App = () => {
     return (
